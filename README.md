@@ -1,6 +1,6 @@
 # Clawdbot QQ Channel Kit (NapCat / OneBot11)
 
-[中文说明]: README.zh-CN.md
+[中文说明](https://github.com/HUMANLYMENG/openclaw-qq-channel-setting/blob/main/README.zh-CN.md)
 
 This kit contains **minimal config templates** to enable Clawdbot QQ channel via NapCat.
 No plugin code is required (Clawdbot ships the QQ plugin by default).
