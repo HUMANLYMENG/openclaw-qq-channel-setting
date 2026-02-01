@@ -1,0 +1,11 @@
+{
+  "name": "@clawdbot/qq",
+  "version": "2026.1.24",
+  "type": "module",
+  "description": "Clawdbot QQ (NapCat/OneBot11) channel plugin",
+  "clawdbot": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}
