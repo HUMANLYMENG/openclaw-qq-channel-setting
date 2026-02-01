@@ -1,0 +1,9 @@
+{
+  "channels": {
+    "qq": {
+      "enabled": true,
+      "httpUrl": "http://127.0.0.1:3000",
+      "accessToken": "YOUR_SHARED_TOKEN"
+    }
+  }
+}

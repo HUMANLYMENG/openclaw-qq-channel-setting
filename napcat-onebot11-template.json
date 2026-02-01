@@ -1,0 +1,32 @@
+{
+  "network": {
+    "httpServers": [
+      {
+        "enable": true,
+        "name": "HttpServer",
+        "host": "127.0.0.1",
+        "port": 3000,
+        "enableCors": true,
+        "enableWebsocket": false,
+        "messagePostFormat": "array",
+        "token": "YOUR_SHARED_TOKEN",
+        "debug": false
+      }
+    ],
+    "httpClients": [
+      {
+        "enable": true,
+        "name": "clawdbot",
+        "url": "http://127.0.0.1:18789/qq/webhook",
+        "reportSelfMessage": false,
+        "messagePostFormat": "array",
+        "token": "YOUR_SHARED_TOKEN",
+        "debug": false
+      }
+    ],
+    "httpSseServers": [],
+    "websocketServers": [],
+    "websocketClients": [],
+    "plugins": []
+  }
+}
